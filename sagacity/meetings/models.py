@@ -1,7 +1,7 @@
 from django.db import models
 
 # Create your models here.
-# meetings/models.py
+
 from django.db import models
 from django.core.exceptions import ValidationError
 from datetime import datetime, time
